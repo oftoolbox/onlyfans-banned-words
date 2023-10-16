@@ -6,7 +6,7 @@ This free and lightweight Chrome extension,  is designed to help you avoid using
 This extension automatically detects and prevents the use of banned words listed in OnlyFans.
 
 🚫 Banned words list:
-[[Link to Restricted Words List](https://jennacitrus.wordpress.com/2020/04/25/onlyfans-list-of-restricted-words/)](https://jennacitrus.wordpress.com/2020/04/25/onlyfans-list-of-restricted-words/)
+[https://jennacitrus.wordpress.com/2020/04/25/onlyfans-list-of-restricted-words/](https://jennacitrus.wordpress.com/2020/04/25/onlyfans-list-of-restricted-words/)
 
 ⚠️ Disclaimer: 
 This list is not official from OnlyFans. More banned words may exist.
