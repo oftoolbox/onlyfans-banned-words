@@ -13,3 +13,6 @@ This extension automatically detects and prevents the use of banned words listed
 
 ⚠️ Disclaimer: 
 This list is not official from OnlyFans. More banned words may exist.
+
+➡️Knowm more here:
+[https://oftoolbox.com/blog/onlyfans-banned-words](https://oftoolbox.com/blog/onlyfans-banned-words)
